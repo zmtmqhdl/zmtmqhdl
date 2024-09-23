@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C197D2&height=100&section=header&text=&fontSize=50&animation=twinkling)
-
 <h3 align="center">🖥️ Languages 🖥️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,5 +37,3 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
   </a>
 </p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
