@@ -1,10 +1,10 @@
 <h3 align="center">📚 Skill Stacks 📚</h3>
 
-<h2 align="center">📚 Language 📚</h2>
+<h2 align="center">📚 Programming Languages 📚</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,kotlin,js" />
+    <img src="https://skillicons.dev/icons?i=c,java,js,kotlin,python"/>
   </a>
 </p>
 
