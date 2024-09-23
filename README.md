@@ -12,14 +12,14 @@
   </a>
 </p>
 
-<h3 align="center">📚 Databases & Cloud Services 📚</h3>
+<h3 align="center">🗄️ Databases & Cloud Services 🗄️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
   </a>
 </p>
 
-<h3 align="center">🛠️ Frameworks & Libraries 🛠️</h3>
+<h3 align="center">📦 Frameworks & Libraries 📦</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,react,spring"/>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h3 align="center">📚 IDEs & Development Tools 📚</h3>
+<h3 align="center">🛠️ IDEs & Development Tools 🛠️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
