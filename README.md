@@ -10,7 +10,7 @@
 <h3 align="center">📚 Markup and Styling Languages 📚</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html5"/>
+    <img src="https://skillicons.dev/icons?i=css,html"/>
   </a>
 </p>
 
