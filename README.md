@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=50&animation=twinkling)
 
-<h3 align="center">🖥️ Languages 🖥️</h3>
+<h3 align="center", font=Oleo+Script>🖥️ Languages 🖥️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,js,kotlin,python"/>
