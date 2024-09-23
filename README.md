@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
-<h1 align="center">📚 Skill Stacks 📚</h1>
-
 <h3 align="center">🖥️ Languages 🖥️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
