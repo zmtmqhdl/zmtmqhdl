@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_E6E6FA&height=100&section=header&text=&fontSize=50&animation=twinkling)
 
 <h3 align="center">🖥️ Languages 🖥️</h3>
 <p align="center">
