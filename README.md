@@ -1,46 +1,48 @@
 <h1 align="center">📚 Skill Stacks 📚</h1>
 
 <h3 align="center">📚 Programming Languages 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,kotlin,python"/>
+    <img src="https://skillicons.dev/icons?i=c,java" style="margin: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=js,kotlin,python" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">📚 Markup & Styling Languages 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html"/>
+    <img src="https://skillicons.dev/icons?i=css,html" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">📚 Databases & Cloud Services 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
+    <img src="https://skillicons.dev/icons?i=firebase,mysql" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">📚 Frameworks & Libraries 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,spring"/>
+    <img src="https://skillicons.dev/icons?i=django,react" style="margin: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=spring" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">📚 Version Control 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github"/>
+    <img src="https://skillicons.dev/icons?i=git,github" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <h3 align="center">📚 IDEs & Development Tools 📚</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode" style="margin: 10px;"/>
   </a>
-</p>
+</div>
 
 <br>
 
