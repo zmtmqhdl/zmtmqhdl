@@ -21,6 +21,29 @@
   </a>
 </p>
 
+<h3 align="center">📚 Frameworks 📚</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,react,spring"/>
+  </a>
+</p>
+
+<h3 align="center">📚 Version Control 📚</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+  </a>
+</p>
+
+<h3 align="center">📚 IDEs & Development Tools 📚</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode"/>
+  </a>
+</p>
+
+
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
