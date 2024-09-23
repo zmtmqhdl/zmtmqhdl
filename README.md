@@ -1,9 +1,10 @@
+<h3 align="center">📚 Skill Stacks 📚</h3>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Language 📚</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c, java, python, kotlin, js" />
   </a>
 </p>
 
