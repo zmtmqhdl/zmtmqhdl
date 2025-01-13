@@ -27,7 +27,7 @@
 <h3 align="center"> 🗂️ Version Control 🗂️ </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,slack"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
   </a>
 </p>
 
