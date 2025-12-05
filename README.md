@@ -1,26 +1,9 @@
+<p align="center"> 꾸준히 성장해나가고 싶은 안드로이드 주니어 개발자입니다. </p>
+
 <h3 align="center"> 🖥️ Languages 🖥️ </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,js,kotlin,python"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html"/>
-  </a>
-</p>
-
-<h3 align="center"> 🗄️Databases & Cloud Services🗄️ </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql"/>
-  </a>
-</p>
-
-<h3 align="center"> 📦 Frameworks & Libraries 📦 </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,spring"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python, js"/>
   </a>
 </p>
 
