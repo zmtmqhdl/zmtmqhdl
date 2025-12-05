@@ -1,10 +1,11 @@
 <p align="center">꾸준히 성장해나가고 싶은 안드로이드 주니어 개발자입니다. </p>
 
-<p align="center">Email : zmtmqhdl@naver.com</p>
-<p align="center">
+<p align="center" style="margin:0;">꾸준히 성장해나가고 싶은 안드로이드 주니어 개발자입니다.</p>
+<p align="center" style="margin:0;">Email : zmtmqhdl@naver.com</p>
+<p align="center" style="margin:0;">
   Portfolio : <a href="https://profuse-list-085.notion.site/MariGold-112712efaa9b80b799b2f878589499aa?source=copy_link">Notion Link</a>
 </p>
-<p align="center" >
+<p align="center" style="margin:0;">
   Blog : <a href="https://velog.io/@marigold_/posts">Velog Link</a>
 </p>
 
