@@ -3,7 +3,7 @@
 <h3 align="center"> 🖥️ Languages 🖥️ </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python, js"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,js"/>
   </a>
 </p>
 
